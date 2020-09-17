@@ -16,8 +16,8 @@
           <li>Shit's legible and gets your fucking point across (if you had one instead of just 5mb pics of hipsters drinking coffee)</li>
 	</ul>
 	
-<h3> Well guess what, motherfucker :</h3>
-<p>You. Are. Over-designing. Look at this shit. It's a motherfucking website. Why the fuck do you need to animate a fucking trendy-ass banner flag when I hover over that useless piece of shit? You spent hours on it and added 80 kilobytes to your fucking site, and some motherfucker jabbing at it on their iPad with fat sausage fingers will never see that shit. Not to mention blind people will never see that shit, but they don't see any of your shitty shit.</p> <br />
+<h3> Well guess what, motherfucker:</h3>
+<p>You. Are. Over-designing. Look at this shit. It's a motherfucking website. Why the fuck do you need to animate a fucking trendy-ass banner flag when I hover over that useless piece of shit? You spent hours on it and added 80 kilobytes to your fucking site, and some motherfucker jabbing at it on their iPad with fat sausage fingers will never see that shit. Not to mention blind people will never see that shit, but they don't see any of your shitty shit.</p> 
 	You never knew it, but this is your perfect website. Here's why.
 <h2>It's fucking lightweight</h2>
    <p>This entire page weighs less than the gradient-meshed facebook logo on your fucking Wordpress site. Did you seriously load 100kb of jQuery UI just so you could animate the fucking background color of a div? You loaded all 7 fontfaces of a shitty webfont just so you could say "Hi." at 100px height at the beginning of your site? You piece of shit.</p>
@@ -49,6 +49,6 @@
    
    <h2>Epilogue</h2>
    
-   <p>From the philosophies expressed (poorly) above,<a>http://txti.es/</a> was created. You should try it today to make your own motherfucking websites.</p>
+   <p>From the philosophies expressed (poorly) above,<a href="http://txti.es/">txti</a> was created. You should try it today to make your own motherfucking websites.</p>
 </body>
 </html>
