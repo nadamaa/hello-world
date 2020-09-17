@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Motherfucking Website</title>
+	<title>Motherfucking Website.</title>
 </head>
 <body> 
   <h1> <b> This is a motherfucking website </h1> </b>
