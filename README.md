@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+	<title>Motherfucking Website</title>
+</head>
 <body> 
   <h1> <b> This is a motherfucking website </h1> </b>
 	<p> And it's fucking perfect </p>
@@ -47,3 +50,5 @@
    <h2>Epilogue</h2>
    
    <p>From the philosophies expressed (poorly) above,<a>http://txti.es/</a> was created. You should try it today to make your own motherfucking websites.</p>
+</body>
+</html>
