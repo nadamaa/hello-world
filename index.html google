@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="utf-8">
+        <title>Google</title>
+        <meta name="viewport" content="width=device-width">
+    </head>
+
+<body>
+    <div id="navbar">
+        
+        <a href="#" id="gmail">Gmail</a>
+        <a href="#" id="image">Images</a>
+        <a href="#" id="menu"><img src="menu.png" height="30px" width="30px" alt=""></a>
+        <a href="#" id="sign-in">Connexion</a>
+    </div>
+    <div id="main">
+        <a href="#" id="logo"><img src="logo(1).png" alt=""></a>
+        <input type="text" id="search">
+        <div id="flexbox">
+            <button id="google-search-btn">Recherche Google</button><button id="random-search-btn">J'ai de la chance</button>
+        </div>
+    </div>
+    <div id="footer">
+        <a href="#" id="pub">Publicité</a>
+        <a href="#" id="entreprise">Entreprise</a>
+        <a href="#" id="propos">À propos</a>
+        <a href="#" id="fonctionnement">Comment fonctionne la recherche Google ?</a>
+        <a href="#" id="confid">Confidentialité</a>
+        <a href="#" id="condition">Conditions</a>
+        <a href="#" id="para">Paramètres</a>
+    </div>
+</body>
+</html>
